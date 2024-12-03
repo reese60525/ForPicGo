@@ -1,7 +1,3 @@
----
-title: README.md
----
-
 # 以 Github 為圖床 的 PicGo 設置流程
 
 ## 1 建立一個新的 Repository
